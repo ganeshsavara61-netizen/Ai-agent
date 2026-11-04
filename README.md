@@ -6,7 +6,7 @@ A learning project exploring how AI agents work: software that uses AI models to
 Early stage. The repo now has a small working agent loop (plan, act, observe) with a tool registry and tests. The planner is rule-based, not a language model. It is written so a model-backed planner can replace it later.
 
 ## Quick start
-Requires Python 3.8+. No extra packages.
+Tested with Python 3.10. No extra packages.
 
 ```
 python main.py "what is 6 * 7?"
